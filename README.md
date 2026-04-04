@@ -1,6 +1,6 @@
-# Israel-Related MCP Servers
+# Israeli AI Agents & MCPs
 
-A curated list of Model Context Protocol (MCP) servers that provide access to Israeli data sources, government APIs, and services relevant to those living in or interested in Israel.
+A curated list of AI agents, agent skills, and Model Context Protocol (MCP) servers relevant to Israel — covering government data, finance, healthcare, real estate, safety, and more.
 
 *Last updated: 2026-04-05*
 
@@ -8,8 +8,10 @@ A curated list of Model Context Protocol (MCP) servers that provide access to Is
 
 <!-- INDEX_START -->
 
+- [AI Agents](#ai-agents)
 - [Agent Skills](#agent-skills)
 - [Agent Skills & Frameworks](#agent-skills--frameworks)
+- [Curated Lists](#curated-lists)
 - [Economics & Statistics](#economics--statistics)
 - [Finance & Banking](#finance--banking)
 - [Government & Open Data](#government--open-data)
@@ -26,9 +28,65 @@ A curated list of Model Context Protocol (MCP) servers that provide access to Is
 
 <!-- INDEX_END -->
 
+# AI Agents
+
+Autonomous AI agents built for Israeli use cases
+
+## [Claudi](https://github.com/itaisabi-collab/claudi)
+
+![GitHub stars](https://img.shields.io/github/stars/itaisabi-collab/claudi?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/itaisabi-collab/claudi)
+
+ClaudioSabi — Israeli AI agent on Moltbook
+
+**Author:** [itaisabi-collab](https://github.com/itaisabi-collab)
+
+---
+
+## [Nachla Agent](https://github.com/Ofir-Metis/nachla-agent)
+
+![GitHub stars](https://img.shields.io/github/stars/Ofir-Metis/nachla-agent?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/Ofir-Metis/nachla-agent)
+
+AI agent for בדיקת התכנות נחלות — feasibility studies for Israeli agricultural settlements
+
+**Author:** [Ofir-Metis](https://github.com/Ofir-Metis)
+
+---
+
+## [News Agent](https://github.com/eyalban/News-Agent)
+
+![GitHub stars](https://img.shields.io/github/stars/eyalban/News-Agent?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/eyalban/News-Agent)
+
+Daily Hebrew security briefing agent for the Iran-Israel conflict, automated via GitHub Actions
+
+**Author:** [eyalban](https://github.com/eyalban)
+
+---
+
+## [OlehAssist Agent](https://github.com/abernatkunin/OlehAssistAgent)
+
+![GitHub stars](https://img.shields.io/github/stars/abernatkunin/OlehAssistAgent?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/abernatkunin/OlehAssistAgent)
+
+A chatbot to assist new Israeli immigrants (olim) with bureaucratic issues after making Aliyah
+
+**Author:** [abernatkunin](https://github.com/abernatkunin)
+
+---
+
 # Agent Skills
 
 Individual AI agent skills for Israeli services and data
+
+## [Clalit Pharmacy Search Skill](https://github.com/tomron/agent-skill-clalit-pharm-search)
+
+![GitHub stars](https://img.shields.io/github/stars/tomron/agent-skill-clalit-pharm-search?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/tomron/agent-skill-clalit-pharm-search)
+
+Claude Code agent skill: search medications and check real-time stock at Clalit (כללית) pharmacies in Israel
+
+**Data Sources:** Clalit Health Services pharmacy system
+
+**Author:** [tomron](https://github.com/tomron)
+
+---
 
 ## [Morning Skill](https://github.com/D1DX/morning-skill)
 
@@ -47,6 +105,30 @@ Morning (Green Invoice) skill for AI agents — expense management, presigned S3
 AI skill for Israeli real estate market analysis
 
 **Author:** [IsraelZablianov](https://github.com/IsraelZablianov)
+
+---
+
+## [OnTopo Skill](https://github.com/alexpolonsky/agent-skill-ontopo)
+
+![GitHub stars](https://img.shields.io/github/stars/alexpolonsky/agent-skill-ontopo?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/alexpolonsky/agent-skill-ontopo)
+
+Search Israeli restaurants, check availability across date ranges, and get booking links. Agent Skills format for OpenClaw, Claude, Cursor
+
+**Data Sources:** OnTopo (formerly Tabit)
+
+**Author:** [alexpolonsky](https://github.com/alexpolonsky)
+
+---
+
+## [Rail IL Skill](https://github.com/lirantal/skill-railil)
+
+![GitHub stars](https://img.shields.io/github/stars/lirantal/skill-railil?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/lirantal/skill-railil)
+
+An agent skill for the Israel Rail API
+
+**Data Sources:** Israel Railways (רכבת ישראל)
+
+**Author:** [lirantal](https://github.com/lirantal)
 
 ---
 
@@ -145,6 +227,20 @@ An open-source organization offering a suite of AI agent skills and MCP servers 
 **CLI:** `npx skills` via [skills-il/skills-il-cli](https://github.com/skills-il/skills-il-cli)
 
 **Author:** [skills-il](https://github.com/skills-il)
+
+---
+
+# Curated Lists
+
+Community-maintained collections of Israeli AI agent resources
+
+## [Awesome Agent Skills Israel](https://github.com/alexpolonsky/awesome-agent-skills-israel)
+
+![GitHub stars](https://img.shields.io/github/stars/alexpolonsky/awesome-agent-skills-israel?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/alexpolonsky/awesome-agent-skills-israel)
+
+A curated list of Agent Skills for navigating life in Israel
+
+**Author:** [alexpolonsky](https://github.com/alexpolonsky)
 
 ---
 
@@ -712,45 +808,52 @@ Israeli Customs Intelligence Platform — AI-powered document classification, em
 
 ---
 
-# MCP Authors
+# Authors
 
-Alphabetical list of contributors who have created Israel-related MCP servers:
+Alphabetical list of contributors who have created Israel-related AI agents, skills, and MCP servers:
 
+- [abernatkunin](https://github.com/abernatkunin)
+- [alexpolonsky](https://github.com/alexpolonsky)
 - [amitdan1](https://github.com/amitdan1)
 - [Ansvar-Systems](https://github.com/Ansvar-Systems)
-- [D1DX](https://github.com/D1DX)
-- [DavidOsherdiagnostica](https://github.com/DavidOsherdiagnostica)
-- [doronrpa-hub](https://github.com/doronrpa-hub)
-- [GaryShnol](https://github.com/GaryShnol)
-- [GuyKh](https://github.com/GuyKh)
-- [IsraelZablianov](https://github.com/IsraelZablianov)
-- [LiorVainer](https://github.com/LiorVainer)
-- [MaorEi](https://github.com/MaorEi)
-- [omernesh](https://github.com/omernesh)
-- [Simtob-Eran](https://github.com/Simtob-Eran)
 - [aviveldan](https://github.com/aviveldan)
 - [barvhaim](https://github.com/barvhaim)
+- [D1DX](https://github.com/D1DX)
 - [danielrosehill](https://github.com/danielrosehill)
 - [david-aftergut](https://github.com/david-aftergut)
+- [DavidOsherdiagnostica](https://github.com/DavidOsherdiagnostica)
+- [doronrpa-hub](https://github.com/doronrpa-hub)
 - [eliko86](https://github.com/eliko86)
 - [enudler](https://github.com/enudler)
+- [eyalban](https://github.com/eyalban)
+- [GaryShnol](https://github.com/GaryShnol)
 - [glekner](https://github.com/glekner)
 - [guymon92](https://github.com/guymon92)
+- [GuyKh](https://github.com/GuyKh)
+- [IsraelZablianov](https://github.com/IsraelZablianov)
+- [itaisabi-collab](https://github.com/itaisabi-collab)
 - [kistik1](https://github.com/kistik1)
+- [lirantal](https://github.com/lirantal)
+- [LiorVainer](https://github.com/LiorVainer)
+- [MaorEi](https://github.com/MaorEi)
 - [mottibec](https://github.com/mottibec)
 - [mula2812](https://github.com/mula2812)
 - [nadavshalev](https://github.com/nadavshalev)
 - [nitzpo](https://github.com/nitzpo)
+- [Ofir-Metis](https://github.com/Ofir-Metis)
+- [omernesh](https://github.com/omernesh)
 - [ozba](https://github.com/ozba)
 - [reuvenaor](https://github.com/reuvenaor)
 - [shlomiuziel](https://github.com/shlomiuziel)
+- [Simtob-Eran](https://github.com/Simtob-Eran)
 - [skills-il](https://github.com/skills-il)
+- [tomron](https://github.com/tomron)
 - [yoni-j](https://github.com/yoni-j)
 - [zohar](https://github.com/zohar)
 
 # Contributing
 
-Anyone is welcome to open a pull request to add an Israel-related MCP server to this list.
+Anyone is welcome to open a pull request to add an Israel-related AI agent, skill, or MCP server to this list.
 
 To add a new project:
 1. Fork this repository
@@ -768,7 +871,7 @@ Alternatively, drop me a line at public@danielrosehill.com if you'd like me to a
 
 # Disclaimer
 
-This resource is intended for those discovering MCP servers relevant to Israel. It is not exhaustive and is maintained on a best-effort basis.
+This resource is intended for those discovering AI agents, skills, and MCP servers relevant to Israel. It is not exhaustive and is maintained on a best-effort basis.
 
 The inclusion of a project in this list does not constitute an endorsement. Users should evaluate each project independently for their specific use cases.
 
