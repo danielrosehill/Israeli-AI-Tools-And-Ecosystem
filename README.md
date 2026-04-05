@@ -758,6 +758,16 @@ MCP server for Israeli price comparison
 
 ---
 
+## [Israeli Tech Shopping MCP](https://github.com/danielrosehill/Israeli-Tech-Shopping-MCP)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Israeli-Tech-Shopping-MCP?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Israeli-Tech-Shopping-MCP)
+
+MCP server for comparison shopping across Israeli tech retailers with browser automation
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
 # Transportation
 
 Routing, transit, and transportation data
