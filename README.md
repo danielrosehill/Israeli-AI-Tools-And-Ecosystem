@@ -6,12 +6,14 @@ A curated map of the Israeli AI ecosystem: AI agents, agent skills, MCP servers,
 
 Projects are presented as compact tables; ecosystem and community sections use grouped lists. See [SCOPE.md](SCOPE.md) for inclusion criteria.
 
+> **Note:** This repo is **not** intended to be a collection of every AI company in Israel — that would be an impossible task, and not particularly useful. Rather, it's a thoughtful organisation of links outlining useful directions for those professionally involved in AI in Israel to find community, organisations, and practical tools.
+
 *Last updated: 2026-04-09*
 
 ## Contents
 
 - **Projects:** [AI Agents](#ai-agents) · [Agent Skills](#agent-skills) · [Skills & Frameworks](#agent-skills--frameworks) · [Curated Lists](#curated-lists)
-- **Ecosystem:** [Communities](#communities--organizations) · [Government](#government-bodies) · [Centers of Excellence](#centers-of-excellence) · [Research Orgs](#research-organizations) · [Education](#education) · [VCs & Financing](#ai-focused-vcs--financing) · [Conferences](#conferences--events) · [Inference Providers](#inference-providers--local-clouds) · [Startups](#startup-ecosystem)
+- **Ecosystem:** [Communities](#communities--organizations) · [Government](#government-bodies) · [Centers of Excellence](#centers-of-excellence) · [Research Orgs](#research-organizations) · [Education](#education) · [AI Jobs](#ai-jobs) · [VCs & Financing](#ai-focused-vcs--financing) · [Conferences](#conferences--events) · [Inference Providers](#inference-providers--local-clouds) · [Startups](#startup-ecosystem)
 - **Hebrew & Language:** [Hebrew Language Resources](#hebrew-language-resources)
 - **By Domain:** [Finance](#finance--banking) · [Gov Data](#government--open-data) · [Gov Services](#government-services) · [Healthcare](#healthcare--medical) · [Legal](#legal) · [Insurance](#insurance) · [Real Estate](#real-estate--land) · [Safety](#safety--emergency) · [Shopping](#shopping--retail) · [Transport](#transportation) · [Weather](#weather--environment) · [Economics](#economics--statistics) · [Library](#library--archives) · [Careers](#careers--jobs) · [Dashboards](#dashboards) · [Plugins](#plugins) · [Voice](#voice-agents)
 
@@ -167,6 +169,14 @@ AI-related education pathways in Israel — continuing professional development,
 ## Courses
 
 *To add: standalone online and in-person courses (Hebrew and English) on AI/ML topics.*
+
+---
+
+# AI Jobs
+
+Job boards, forms, and channels specifically surfacing AI/ML roles in Israel.
+
+*To add: AI-specific job boards, Telegram/WhatsApp job channels, company hiring forms, and community-run job lists.*
 
 ---
 
