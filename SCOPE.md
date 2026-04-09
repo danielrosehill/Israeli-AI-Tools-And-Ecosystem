@@ -1,6 +1,12 @@
 # Scope
 
-This resource list catalogues **Israeli AI projects**.
+This resource list catalogues the **Israeli AI ecosystem** — both individual projects and the broader community/infrastructure around them.
+
+## Format
+
+- **Project sections** (AI Agents, Agent Skills, Finance, Healthcare, etc.) are rendered as compact tables: Project · Description · Stars.
+- **Ecosystem sections** (Communities, Meetups, Facebook Groups, Government Bodies, Conferences, Inference Providers, Startups, Hebrew Language Resources) are rendered as grouped bullet lists.
+- Author attribution lives in the commit history and the linked repos, not inline in the README.
 
 ## In scope
 
